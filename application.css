@@ -1,0 +1,41 @@
+body{
+   width: 95%;
+   max-width: 1000px;
+   margin: auto;
+   background: url(ceu.jpg);
+   
+   font-family:'Aboreto';
+   font-size: 2000;
+   line-height: 1.5;
+
+}
+
+main{
+    background: #87ceebba;
+    padding: 50px 50px ;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    border-radius: 50px ;
+}
+
+.foto, .band-name,.cabecalho{
+    margin: 0;
+    text-align: center;
+}
+.chamada{
+    margin: 0;
+}
+.titulo{
+    text-align: center;
+}
+.top{
+    margin: 30px 0;
+    width: 100%;
+}
+
+.top table{
+    background: #0000ff7a;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+}
